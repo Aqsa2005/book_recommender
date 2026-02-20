@@ -1,0 +1,77 @@
+/* Full Black Background */
+body {
+    background: #000000;
+    font-family: 'Poppins', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Glass Card */
+.glass-card {
+    background: #111111;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgba(255, 255, 255, 0.05);
+    width: 100%;
+    max-width: 500px;
+}
+
+/* Headings */
+h2 {
+    color: white;
+    font-weight: 600;
+}
+
+/* Labels */
+label {
+    color: #cccccc;
+    font-weight: 500;
+}
+
+/* Dropdown */
+select.form-select {
+    background-color: #1a1a1a;
+    color: white;
+    border: 1px solid #333;
+}
+
+/* Buttons */
+.btn {
+    border-radius: 30px;
+    padding: 12px;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+/* Blue Button */
+.btn-primary {
+    background-color: #2563eb;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #1d4ed8;
+}
+
+/* Green Button */
+.btn-success {
+    background-color: #16a34a;
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #15803d;
+}
+
+/* Cyan Button */
+.btn-info {
+    background-color: #06b6d4;
+    border: none;
+    color: white;
+}
+
+.btn-info:hover {
+    background-color: #0891b2;
+}
