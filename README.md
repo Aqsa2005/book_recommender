@@ -56,3 +56,12 @@ This app filters books by mood and genre, displays all matches, and highlights o
 #### Installation
 ```bash
 pip install -r requirements.txt
+# Run
+python app.py
+
+### Project Documentation
+For Software:
+## Screenshots
+<img width="3188" height="1202" alt="frame (3)" src="Screenshot 1.png" />
+<img width="3188" height="1202" alt="frame (3)" src="Screenshot 2.png" />
+<img width="3188" height="1202" alt="frame (3)" src="Screenshot 3.png" />
