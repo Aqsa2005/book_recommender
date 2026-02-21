@@ -38,7 +38,7 @@ This app filters books by mood and genre, displays all matches, and highlights o
 
 ---
 ## Screenshots
-[Screenshot1](screenshot1.png)
+<img width="3188" height="1202" alt="frame (3)" src="Screenshot1.png" />
 ## Features
 - **Recommend:** Shows all books that match the selected mood and genre.
 - **Random:** Picks one random book from the recommended set.
