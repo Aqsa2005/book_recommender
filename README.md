@@ -61,7 +61,5 @@ For Software:
 pip install -r requirements.txt
 # Run
 python app.py
-
-### Project Documentation
-For Software:
+Made with ❤️ at TinkerHub Tink Her Hack Projects
 
